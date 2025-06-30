@@ -21,7 +21,7 @@ Host a static website on a custom domain (`vrindha.site`) using AWS services wit
 8. Verified secure access via `https://vrindha.site`
 
 ## 🌐 Live Demo
-[https://vrindha.site](https://vrindha.site)
+[vrindha.site](vrindha.site)
 
 ## 📸 Screenshots
 ## Screenshot References
