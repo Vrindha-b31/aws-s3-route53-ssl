@@ -18,10 +18,8 @@ Host a static website on a custom domain (`vrindha.site`) using AWS services wit
 5. Created a CloudFront distribution with custom domain + SSL
 6. Configured Route 53 to point `vrindha.site` and `www.vrindha.site` to CloudFront
 7. Enabled HTTPS redirection in CloudFront behavior
-8. Verified secure access via `https://vrindha.site`
+8. Verified secure access via `vrindha.site`
 
-## 🌐 Live Demo
-[www.vrindha.site](www.vrindha.site)
 
 ## 📸 Screenshots
 ## Screenshot References
